@@ -1,0 +1,549 @@
+* {
+  max-width: 100%;
+  /*border: 2px solid red;*/
+}
+
+body {
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  positon: relative;
+
+}
+
+a {
+  color: gray;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+
+}
+
+h1 {
+  font-weight: 700;
+  color: gold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+.container {
+  width: 100%;
+  /*border: 2px solid green;*/
+
+}
+
+
+
+.nav {
+  margin-top: 5%;
+
+}
+
+
+.nav-link {
+  display: inline-block;
+}
+
+.logo-top {
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+
+
+}
+
+.subject-sub-title-nike h3{
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #ccff33;
+  font-size: 4em;
+
+}
+
+.subject-sub-title h4 {
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #ffcc00;
+  f
+
+}
+
+.subject-sub-title-nike p {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: lowercase;
+  color: gray;
+  text-align: center;
+
+}
+
+.subject-sub-title-nike img {
+  margin: 0 40%;
+  text-align: center;
+}
+
+.nav-content {
+  text-align: center;
+  margin-top: 5%;
+  align-items: center;
+}
+
+.button-top {
+  margin-top: 3%;
+  text-align: right;
+}
+
+.row {
+  /*border: 2px solid red;*/
+  width: 100%;
+  margin: 5% auto;
+}
+
+
+
+
+
+.main-header {
+  background-image: url("https://pbs.twimg.com/media/CltCHEqWYAAkkf7.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 700px;
+  width: 100%;
+  /*border: 2px solid blue;*/
+  margin: 5% auto;
+  border-top: 15px solid #ccff33;
+
+
+}
+
+.main-header-2 {
+  background-image: url("https://content.nike.com/content/dam/one-nike/en_hk/SU16/Cities/NRC-header.jpg.transform/full-screen/NRC-header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+  margin: -10% auto 5%;
+}
+.abc {
+  align-content: center;
+  width: 100%
+
+}
+
+
+
+
+
+
+.title h1{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 100;
+  font-size: 6em;
+  text-align: center;
+  color: gray;
+  margin-top: 20%;
+  background-color: rgba(0,0,0,0.05);
+}
+
+
+
+/*.about-A {
+  background-image: url("http://southsouthwest.com.au/wp-content/uploads/2015/11/SouthSouthWest_NRC_x7.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+  background-position: bottom;
+}*/
+.about-2 {
+  width: 50%;
+  text-align: justify;
+  color: gray;
+  font-size: 16px;
+  margin-bottom: 20%;
+}
+
+.about-2 h2 {
+  font-size: 7em;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+
+}
+
+.about-3-list {
+
+  text-align: center;
+
+}
+.about-3-list h4 {
+  /*border: 2px solid black;*/
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.mid-section-1 {
+  background-color: gray;
+  height: 200px;
+  width: 100%;
+}
+
+
+.img d-flex {
+
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/1e/6d/6e/1e6d6ef9f1dd94b3e9da5afbedf1dc6d.jpg");
+  background-size: cover;
+
+}
+/*============================================
+                  PROJECTS
+================================================*/
+
+.mid-section-2 {
+  background-color:
+  height: 500px;
+  width: 100%;
+  align-items: center;
+}
+
+.mid-section-2-pic h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 9em;
+  color: white;
+  padding-top: 10%;
+  text-shadow: 2px 2px 4px #000000;
+}
+.mid-section-2-pic {
+  background-image:url("http://glamour.co.za/wp-content/uploads/2016/07/NIKE-NRC-LUNAR-EPIC-RUN-24-JULY-2016_0089.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 350px;
+  color: white;
+
+
+}
+
+.subject-sub-title h4 {
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+  color: gray;
+
+
+}
+
+.subject-sub-title p {
+  text-align:center;
+}
+
+.subject-sub-title {
+  align-items: flex-end;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mid-section-3-pic {
+  margin: 5% auto 10%;
+  background-image: url("https://content.nike.com/content/dam/one-nike/en_us/season-2016-fl/Running/NRC_APP/FA16_RN_NRC_App_P2_NAb.jpg.transform/full-screen/FA16_RN_NRC_App_P2_NAb.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 800px;
+  /*border: 2px solid red;*/
+  width: 100%;
+  position: relative;
+
+}
+
+.mid-section-3-pic h1 {
+  position: absolute;
+  left: 10%;
+  top: 45%;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+.mid-section-3-pic p {
+  position: absolute;
+  left: 10%;
+  top: 70%;
+
+}
+
+.mid-section-4-pic {
+  margin: 5% auto 10%;
+  background-image: url("https://content.nike.com/content/dam/one-nike/en_us/season-2016-ho/Running/NA/Nike+RunClub_CDP-a.jpg.transform/full-screen/Nike+RunClub_CDP-a.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+  height: 800px;
+  /*border: 2px solid red;*/
+  width: 100%;
+
+  text-align: right;
+}
+
+.mid-section-4-pic h1 {
+
+  padding-top: 27%;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+
+}
+
+.jumbotron-fluid {
+  background-image: url("https://3.bp.blogspot.com/-3AAuamIVGgY/VuTdk7FvEEI/AAAAAAAAxV8/Zo0Q5DVi1AYElC2Vc0PvB6T4-ywtG2pNg/s1600/NRC%2BBOG%2BCOLOMBIA.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+.lead {
+  font-family: 'Poppins', sans-serif;
+}
+
+.display-3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.events-tab h1{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 4em;
+  margin-top: 20%;
+}
+
+.events-tab p {
+  text-align: center;
+  color: gray;
+}
+/*============================================
+                    GALLERY
+================================================*/
+.gallery-1 {
+  display: flex;
+
+}
+
+.img-1,
+.img-2 {
+  padding: 0;
+}
+
+.img-3,
+.img-4,
+.img-5 {
+  padding: 0;
+
+}
+
+.img-2 {
+  overflow:hidden;
+}
+
+.contact {
+  max-width: 70%;
+  margin: -10% auto;
+}
+
+
+.gallery-container {
+	margin: 45px auto;
+	padding: 15px;
+	background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+}
+.item-1 {
+	color: #fff;
+	padding: 150px;
+	margin: 5px;
+	background-image: url("https://content.nike.com/content/dam/one-nike/en_lu/SP16/Running/LunarTempo/WE/01072016_WE_Running_Speed_Tights_P5.jpg.transform/full-screen/01072016_WE_Running_Speed_Tights_P5.jpg");
+  background-position: 50%;
+	border-radius: 3px;
+}
+
+.item-2 {
+	color: #fff;
+	padding: 150px;
+	margin: 5px;
+	background-image: url("https://www.myactivesg.com/~/media/consumer/images/improve/sports%20gear/2016/aug/screenshot20160825at84534am.png");
+	border-radius: 3px;
+}
+
+.item-3 {
+	color: #fff;
+	padding: 150px;
+	margin: 5px;
+	background-image: url("https://i.dmarge.com/2016/02/k1.jpg");
+  background-size: cover;
+	border-radius: 3px;
+}
+
+.item-4 {
+	color: #fff;
+	padding: 150px;
+	margin: 5px;
+	background-image: url("http://www.runforwealth.com/wp-content/uploads/2015/08/NRC.jpg");
+  background-size: cover;
+	border-radius: 3px;
+}
+
+.item-5 {
+	color: #fff;
+	padding: 150px;
+	margin: 5px;
+	background-image: url("http://www.runkonnect.com/wp-content/uploads/2015/09/0182_Nike_NRC_Fall2015_AlexandreIII_20150821-1024x683.jpg");
+  background-size: cover;
+	border-radius: 3px;
+}
+
+/*===============================================
+                   FLEXBOX
+===================================================*/
+.gallery-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.item {
+  flex-grow: 1;
+  flex-basis: 200px;
+}
+
+.item-1 {
+  flex-grow: 2;
+}
+.item-2 {
+  flex-grow: 2;
+}
+
+
+
+
+
+
+.mid-section-5-pic {
+  margin-bottom: 10%;
+}
+
+/*============================================
+                    FOOTER
+================================================*/
+
+.footer {
+  width: 100%;
+  background-color: black;
+  height: auto;
+  margin-top: 1%;
+}
+
+.footer-header h1{
+  margin: 0 auto;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding-top: 3%;
+}
+
+.footer-content {
+  max-width: 80%;
+  margin-top: 1%;
+  align-items: flex-end;
+}
+
+.footer-copyright p{
+
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: -5%;
+
+}
+
+.nav-content-footer {
+  text-align: center;
+  align-items: center;
+
+}
+
+
+
+.footer-header {
+  flex: 1;
+  text-align: center;
+}
+
+
+.btn-warning {
+  background-color: #ccff33;
+  border: none;
+  color: black;
+}
+
+.social-tags {
+  margin: 10% auto 0;
+}
+
+.social {
+  text-align: center;
+}
+
+
+
+
+
+
+.footer-2-content {
+  width: 80%;
+  margin: 0 auto;
+  border-bottom: 2px solid gray;
+  font-size: 12px;
+}
+
+.footer-2-social {
+  text-align: right;
+}
+
+
+.footer-2-content-2 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.footer-2-list {
+  text-decoration: none;
+  text-align: right;
+  display: inline-block;
+}
+
+.footer-2-list p {
+  padding: 10px;
+  display: inline;
+}
